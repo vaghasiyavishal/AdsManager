@@ -1,0 +1,278 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AdInfo"
+provides-nominal:
+- "9AdManager0A4InfoC"
+provides-member:
+- ["9AdManager0A4InfoC", ""]
+provides-dynamic-lookup:
+- "banner_Ads"
+- "interstitial_Ads"
+- "isLiveAds"
+- "isRemoveAds"
+- "native_Ads"
+- "openApp_Ads"
+- "shared"
+depends-top-level:
+- !private "??"
+- "AdInfo"
+- "Bool"
+- "String"
+- !private "StringLiteralType"
+- !private "UserDefaults"
+depends-member:
+- ["9AdManager0A4InfoC", "AdInfo"]
+- ["9AdManager0A4InfoC", "Bool"]
+- ["9AdManager0A4InfoC", "String"]
+- !private ["9AdManager0A4InfoC", "UserDefaults"]
+- ["9AdManager0A4InfoC", "banner_Ads"]
+- ["9AdManager0A4InfoC", "deinit"]
+- ["9AdManager0A4InfoC", "init"]
+- ["9AdManager0A4InfoC", "interstitial_Ads"]
+- ["9AdManager0A4InfoC", "isLiveAds"]
+- ["9AdManager0A4InfoC", "isRemoveAds"]
+- ["9AdManager0A4InfoC", "native_Ads"]
+- ["9AdManager0A4InfoC", "openApp_Ads"]
+- ["9AdManager0A4InfoC", "shared"]
+- !private ["SK", ""]
+- !private ["s7CVarArgP", "bool"]
+- !private ["s7CVarArgP", "set"]
+- !private ["s7CVarArgP", "standard"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "synchronize"]
+- !private ["Sl", ""]
+- !private ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "bool"]
+- !private ["s28CustomDebugStringConvertibleP", "set"]
+- !private ["s28CustomDebugStringConvertibleP", "standard"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "synchronize"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "bool"]
+- !private ["s23CustomStringConvertibleP", "set"]
+- !private ["s23CustomStringConvertibleP", "standard"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "synchronize"]
+- !private ["SQ", ""]
+- !private ["SQ", "bool"]
+- !private ["SQ", "set"]
+- !private ["SQ", "standard"]
+- !private ["SQ", "string"]
+- !private ["SQ", "synchronize"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", ""]
+- !private ["SH", "bool"]
+- !private ["SH", "set"]
+- !private ["SH", "standard"]
+- !private ["SH", "string"]
+- !private ["SH", "synchronize"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", ""]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "bool"]
+- !private ["So8NSObjectC", "boolForKey"]
+- !private ["So8NSObjectC", "set"]
+- !private ["So8NSObjectC", "setBool"]
+- !private ["So8NSObjectC", "setDouble"]
+- !private ["So8NSObjectC", "setFloat"]
+- !private ["So8NSObjectC", "setInteger"]
+- !private ["So8NSObjectC", "setObject"]
+- !private ["So8NSObjectC", "setURL"]
+- !private ["So8NSObjectC", "standard"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "stringForKey"]
+- !private ["So8NSObjectC", "synchronize"]
+- !private ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "bool"]
+- !private ["So8NSObjectP", "boolForKey"]
+- !private ["So8NSObjectP", "set"]
+- !private ["So8NSObjectP", "setBool"]
+- !private ["So8NSObjectP", "setDouble"]
+- !private ["So8NSObjectP", "setFloat"]
+- !private ["So8NSObjectP", "setInteger"]
+- !private ["So8NSObjectP", "setObject"]
+- !private ["So8NSObjectP", "setURL"]
+- !private ["So8NSObjectP", "standard"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So8NSObjectP", "stringForKey"]
+- !private ["So8NSObjectP", "synchronize"]
+- !private ["ST", ""]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["So14NSUserDefaultsC", "bool"]
+- !private ["So14NSUserDefaultsC", "set"]
+- !private ["So14NSUserDefaultsC", "standard"]
+- !private ["So14NSUserDefaultsC", "string"]
+- !private ["So14NSUserDefaultsC", "synchronize"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bool"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "set"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "standard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "synchronize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bool"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "set"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "standard"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "string"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "synchronize"]
+depends-nominal:
+- "9AdManager0A4InfoC"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "ST"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So14NSUserDefaultsC"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdMetadata.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADRewardedAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationRewardedAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediatedUnifiedNativeAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomNativeAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationNativeAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADInterstitialAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GAMInterstitialAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADRewardedInterstitialAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationInterstitialAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAppOpenAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationBannerAd.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediatedUnifiedNativeAdNotificationSource.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAd+CustomClickGesture.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomNativeAdDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdUnconfirmedClickDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAudioVideoManagerDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADFullScreenContentDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdEventDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdValue.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdSize.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAd+ConfirmationClick.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdConfiguration.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationServerConfiguration.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADRequestConfiguration.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADMuteThisAdReason.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADResponseInfo.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADMediaAspectRatio.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADVersionNumber.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/nexios/Documents/Demo/AdManager/AdManager/AdManager.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAudioVideoManager.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/RTBMediation/GADRTBAdapter.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdapter.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADPresentationError.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationRequestError.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADServerSideVerificationOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdMediaAdLoaderOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADMultipleAdsAdLoaderOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeMuteThisAdLoaderOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GAMBannerViewOptions.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADNativeAdAssetIdentifiers.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationNativeAdAssetIdentifiers.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/RTBMediation/GADRTBRequestParameters.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADInitializationStatus.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdFormat.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADDisplayAdMeasurement.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADMediaContent.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GAMRequest.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GAMBannerView.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/nexios/Documents/Demo/AdManager/build/AdManager.build/Debug-iphoneos/AdsManager.build/unextended-module.modulemap"
+- "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/XCFrameworkIntermediates/GoogleMobileAds/GoogleMobileAds.framework/Modules/module.modulemap"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/AdSupport.framework/Headers/AdSupport.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode 12.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "17956fae61e7069bdcd86d5d0b3fc3f7"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "1d6526dc868a4514ce4ffc5122fa7f1d"
+build_time: [1623742322, 171988000]
+inputs:
+  "/Users/nexios/Documents/Demo/AdManager/AdManager/Source/AdInfo.swift": [1623742287, 398757676]
+  "/Users/nexios/Documents/Demo/AdManager/AdManager/Source/AdManager.swift": [1623742316, 608089748]

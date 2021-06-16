@@ -1,0 +1,10 @@
+framework module AdManager {
+  umbrella header "AdManager.h"
+
+  export *
+  module * { export * }
+}
+
+module AdManager.__Swift {
+    exclude header "AdManager-Swift.h"
+}

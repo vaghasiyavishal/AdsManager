@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/nexios/Library/Developer/Xcode/DerivedData/AdManager-aftiqhlfzkxbyfceuidcouwbntjk/Build/Products/Debug-iphoneos/AdManager.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/nexios/Documents/Demo/AdManager/build/AdManager.build/Debug-iphoneos/AdsManager.build/unextended-module.modulemap",
+    }]
+  }]
+}
